@@ -1,0 +1,877 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>m1.png</file>
+        <file>pozadina.png</file>
+        <file>t1.png</file>
+        <file>flash.png</file>
+        <file>t3.png</file>
+        <file>t2.png</file>
+        <file>baza.png</file>
+        <file>zz.png</file>
+        <file>Izlaz.png</file>
+        <file>logo.png</file>
+        <file>NovaIgra.png</file>
+        <file>Opcije.png</file>
+        <file>Pauza.png</file>
+        <file>pozadinaUPauzi.png</file>
+        <file>PravilaIgre.png</file>
+        <file>OpcijeP.png</file>
+        <file>PovratakNaMeni.png</file>
+        <file>PovratakUIgru.png</file>
+        <file>smrt.WAV</file>
+        <file>strela.wav</file>
+        <file>slike/hunter/shooting e0000.png</file>
+        <file>slike/hunter/shooting e0001.png</file>
+        <file>slike/hunter/shooting e0002.png</file>
+        <file>slike/hunter/shooting e0003.png</file>
+        <file>slike/hunter/shooting e0004.png</file>
+        <file>slike/hunter/shooting e0005.png</file>
+        <file>slike/hunter/shooting e0006.png</file>
+        <file>slike/hunter/shooting e0007.png</file>
+        <file>slike/hunter/shooting e0008.png</file>
+        <file>slike/hunter/shooting e0009.png</file>
+        <file>slike/hunter/shooting e0010.png</file>
+        <file>slike/hunter/shooting e0011.png</file>
+        <file>slike/hunter/shooting e0012.png</file>
+        <file>slike/hunter/shooting n0000.png</file>
+        <file>slike/hunter/shooting n0001.png</file>
+        <file>slike/hunter/shooting n0002.png</file>
+        <file>slike/hunter/shooting n0003.png</file>
+        <file>slike/hunter/shooting n0004.png</file>
+        <file>slike/hunter/shooting n0005.png</file>
+        <file>slike/hunter/shooting n0006.png</file>
+        <file>slike/hunter/shooting n0007.png</file>
+        <file>slike/hunter/shooting n0008.png</file>
+        <file>slike/hunter/shooting n0009.png</file>
+        <file>slike/hunter/shooting n0010.png</file>
+        <file>slike/hunter/shooting n0011.png</file>
+        <file>slike/hunter/shooting n0012.png</file>
+        <file>slike/hunter/shooting ne0000.png</file>
+        <file>slike/hunter/shooting ne0001.png</file>
+        <file>slike/hunter/shooting ne0002.png</file>
+        <file>slike/hunter/shooting ne0003.png</file>
+        <file>slike/hunter/shooting ne0004.png</file>
+        <file>slike/hunter/shooting ne0005.png</file>
+        <file>slike/hunter/shooting ne0006.png</file>
+        <file>slike/hunter/shooting ne0007.png</file>
+        <file>slike/hunter/shooting ne0008.png</file>
+        <file>slike/hunter/shooting ne0009.png</file>
+        <file>slike/hunter/shooting ne0010.png</file>
+        <file>slike/hunter/shooting ne0011.png</file>
+        <file>slike/hunter/shooting ne0012.png</file>
+        <file>slike/hunter/shooting nw0000.png</file>
+        <file>slike/hunter/shooting nw0001.png</file>
+        <file>slike/hunter/shooting nw0002.png</file>
+        <file>slike/hunter/shooting nw0003.png</file>
+        <file>slike/hunter/shooting nw0004.png</file>
+        <file>slike/hunter/shooting nw0005.png</file>
+        <file>slike/hunter/shooting nw0006.png</file>
+        <file>slike/hunter/shooting nw0007.png</file>
+        <file>slike/hunter/shooting nw0008.png</file>
+        <file>slike/hunter/shooting nw0009.png</file>
+        <file>slike/hunter/shooting nw0010.png</file>
+        <file>slike/hunter/shooting nw0011.png</file>
+        <file>slike/hunter/shooting nw0012.png</file>
+        <file>slike/hunter/shooting s0000.png</file>
+        <file>slike/hunter/shooting s0001.png</file>
+        <file>slike/hunter/shooting s0002.png</file>
+        <file>slike/hunter/shooting s0003.png</file>
+        <file>slike/hunter/shooting s0004.png</file>
+        <file>slike/hunter/shooting s0005.png</file>
+        <file>slike/hunter/shooting s0006.png</file>
+        <file>slike/hunter/shooting s0007.png</file>
+        <file>slike/hunter/shooting s0008.png</file>
+        <file>slike/hunter/shooting s0009.png</file>
+        <file>slike/hunter/shooting s0010.png</file>
+        <file>slike/hunter/shooting s0011.png</file>
+        <file>slike/hunter/shooting s0012.png</file>
+        <file>slike/hunter/shooting se0000.png</file>
+        <file>slike/hunter/shooting se0001.png</file>
+        <file>slike/hunter/shooting se0002.png</file>
+        <file>slike/hunter/shooting se0003.png</file>
+        <file>slike/hunter/shooting se0004.png</file>
+        <file>slike/hunter/shooting se0005.png</file>
+        <file>slike/hunter/shooting se0006.png</file>
+        <file>slike/hunter/shooting se0007.png</file>
+        <file>slike/hunter/shooting se0008.png</file>
+        <file>slike/hunter/shooting se0009.png</file>
+        <file>slike/hunter/shooting se0010.png</file>
+        <file>slike/hunter/shooting se0011.png</file>
+        <file>slike/hunter/shooting se0012.png</file>
+        <file>slike/hunter/shooting sw0000.png</file>
+        <file>slike/hunter/shooting sw0001.png</file>
+        <file>slike/hunter/shooting sw0002.png</file>
+        <file>slike/hunter/shooting sw0003.png</file>
+        <file>slike/hunter/shooting sw0004.png</file>
+        <file>slike/hunter/shooting sw0005.png</file>
+        <file>slike/hunter/shooting sw0006.png</file>
+        <file>slike/hunter/shooting sw0007.png</file>
+        <file>slike/hunter/shooting sw0008.png</file>
+        <file>slike/hunter/shooting sw0009.png</file>
+        <file>slike/hunter/shooting sw0010.png</file>
+        <file>slike/hunter/shooting sw0011.png</file>
+        <file>slike/hunter/shooting sw0012.png</file>
+        <file>slike/hunter/shooting w0000.png</file>
+        <file>slike/hunter/shooting w0001.png</file>
+        <file>slike/hunter/shooting w0002.png</file>
+        <file>slike/hunter/shooting w0003.png</file>
+        <file>slike/hunter/shooting w0004.png</file>
+        <file>slike/hunter/shooting w0005.png</file>
+        <file>slike/hunter/shooting w0006.png</file>
+        <file>slike/hunter/shooting w0007.png</file>
+        <file>slike/hunter/shooting w0008.png</file>
+        <file>slike/hunter/shooting w0009.png</file>
+        <file>slike/hunter/shooting w0010.png</file>
+        <file>slike/hunter/shooting w0011.png</file>
+        <file>slike/hunter/shooting w0012.png</file>
+        <file>KrajIgre.png</file>
+        <file>pozadinaDesno.png</file>
+        <file>pravougaonik2.png</file>
+        <file>PrikljuciSe.png</file>
+        <file>VratiSe.png</file>
+        <file>ZapocniIgru.png</file>
+        <file>pozadina1.png</file>
+        <file>EXPLO1.WAV</file>
+    </qresource>
+    <qresource prefix="/1enmy">
+        <file>slike/1enmy/1enmy00.png</file>
+        <file>slike/1enmy/1enmy01.png</file>
+        <file>slike/1enmy/1enmy02.png</file>
+        <file>slike/1enmy/1enmy10.png</file>
+        <file>slike/1enmy/1enmy11.png</file>
+        <file>slike/1enmy/1enmy12.png</file>
+        <file>slike/1enmy/1enmy20.png</file>
+        <file>slike/1enmy/1enmy21.png</file>
+        <file>slike/1enmy/1enmy22.png</file>
+        <file>slike/1enmy/1enmy30.png</file>
+        <file>slike/1enmy/1enmy31.png</file>
+        <file>slike/1enmy/1enmy32.png</file>
+        <file>slike/1enmy/1enmy40.png</file>
+        <file>slike/1enmy/1enmy41.png</file>
+        <file>slike/1enmy/1enmy42.png</file>
+        <file>slike/1enmy/1enmy50.png</file>
+        <file>slike/1enmy/1enmy51.png</file>
+        <file>slike/1enmy/1enmy52.png</file>
+        <file>slike/1enmy/1enmy60.png</file>
+        <file>slike/1enmy/1enmy61.png</file>
+        <file>slike/1enmy/1enmy62.png</file>
+        <file>slike/1enmy/1enmy70.png</file>
+        <file>slike/1enmy/1enmy71.png</file>
+        <file>slike/1enmy/1enmy72.png</file>
+    </qresource>
+    <qresource prefix="/put">
+        <file>slike/put/s1.png</file>
+        <file>slike/put/s2.png</file>
+        <file>slike/put/s3.png</file>
+        <file>slike/put/s4.png</file>
+        <file>slike/put/s5.png</file>
+        <file>slike/put/s6.png</file>
+    </qresource>
+    <qresource prefix="/slike">
+        <file>slike/barbar/walking/walking e0000.png</file>
+        <file>slike/barbar/walking/walking e0001.png</file>
+        <file>slike/barbar/walking/walking e0002.png</file>
+        <file>slike/barbar/walking/walking e0003.png</file>
+        <file>slike/barbar/walking/walking e0004.png</file>
+        <file>slike/barbar/walking/walking e0005.png</file>
+        <file>slike/barbar/walking/walking e0006.png</file>
+        <file>slike/barbar/walking/walking e0007.png</file>
+        <file>slike/barbar/walking/walking n0000.png</file>
+        <file>slike/barbar/walking/walking n0001.png</file>
+        <file>slike/barbar/walking/walking n0002.png</file>
+        <file>slike/barbar/walking/walking n0003.png</file>
+        <file>slike/barbar/walking/walking n0004.png</file>
+        <file>slike/barbar/walking/walking n0005.png</file>
+        <file>slike/barbar/walking/walking n0006.png</file>
+        <file>slike/barbar/walking/walking n0007.png</file>
+        <file>slike/barbar/walking/walking ne0000.png</file>
+        <file>slike/barbar/walking/walking ne0001.png</file>
+        <file>slike/barbar/walking/walking ne0002.png</file>
+        <file>slike/barbar/walking/walking ne0003.png</file>
+        <file>slike/barbar/walking/walking ne0004.png</file>
+        <file>slike/barbar/walking/walking ne0005.png</file>
+        <file>slike/barbar/walking/walking ne0006.png</file>
+        <file>slike/barbar/walking/walking ne0007.png</file>
+        <file>slike/barbar/walking/walking nw0000.png</file>
+        <file>slike/barbar/walking/walking nw0001.png</file>
+        <file>slike/barbar/walking/walking nw0002.png</file>
+        <file>slike/barbar/walking/walking nw0003.png</file>
+        <file>slike/barbar/walking/walking nw0004.png</file>
+        <file>slike/barbar/walking/walking nw0005.png</file>
+        <file>slike/barbar/walking/walking nw0006.png</file>
+        <file>slike/barbar/walking/walking nw0007.png</file>
+        <file>slike/barbar/walking/walking s0000.png</file>
+        <file>slike/barbar/walking/walking s0001.png</file>
+        <file>slike/barbar/walking/walking s0002.png</file>
+        <file>slike/barbar/walking/walking s0003.png</file>
+        <file>slike/barbar/walking/walking s0004.png</file>
+        <file>slike/barbar/walking/walking s0005.png</file>
+        <file>slike/barbar/walking/walking s0006.png</file>
+        <file>slike/barbar/walking/walking s0007.png</file>
+        <file>slike/barbar/walking/walking se0000.png</file>
+        <file>slike/barbar/walking/walking se0001.png</file>
+        <file>slike/barbar/walking/walking se0002.png</file>
+        <file>slike/barbar/walking/walking se0003.png</file>
+        <file>slike/barbar/walking/walking se0004.png</file>
+        <file>slike/barbar/walking/walking se0005.png</file>
+        <file>slike/barbar/walking/walking se0006.png</file>
+        <file>slike/barbar/walking/walking se0007.png</file>
+        <file>slike/barbar/walking/walking sw0000.png</file>
+        <file>slike/barbar/walking/walking sw0001.png</file>
+        <file>slike/barbar/walking/walking sw0002.png</file>
+        <file>slike/barbar/walking/walking sw0003.png</file>
+        <file>slike/barbar/walking/walking sw0004.png</file>
+        <file>slike/barbar/walking/walking sw0005.png</file>
+        <file>slike/barbar/walking/walking sw0006.png</file>
+        <file>slike/barbar/walking/walking sw0007.png</file>
+        <file>slike/barbar/walking/walking w0000.png</file>
+        <file>slike/barbar/walking/walking w0001.png</file>
+        <file>slike/barbar/walking/walking w0002.png</file>
+        <file>slike/barbar/walking/walking w0003.png</file>
+        <file>slike/barbar/walking/walking w0004.png</file>
+        <file>slike/barbar/walking/walking w0005.png</file>
+        <file>slike/barbar/walking/walking w0006.png</file>
+        <file>slike/barbar/walking/walking w0007.png</file>
+        <file>slike/barbar/tipping over/tipping over e0001.png</file>
+        <file>slike/barbar/tipping over/tipping over e0002.png</file>
+        <file>slike/barbar/tipping over/tipping over e0003.png</file>
+        <file>slike/barbar/tipping over/tipping over e0004.png</file>
+        <file>slike/barbar/tipping over/tipping over e0005.png</file>
+        <file>slike/barbar/tipping over/tipping over e0006.png</file>
+        <file>slike/barbar/tipping over/tipping over e0007.png</file>
+        <file>slike/barbar/tipping over/tipping over e0008.png</file>
+        <file>slike/barbar/tipping over/tipping over e0009.png</file>
+        <file>slike/barbar/tipping over/tipping over e0010.png</file>
+        <file>slike/barbar/tipping over/tipping over n0000.png</file>
+        <file>slike/barbar/tipping over/tipping over n0001.png</file>
+        <file>slike/barbar/tipping over/tipping over n0002.png</file>
+        <file>slike/barbar/tipping over/tipping over n0003.png</file>
+        <file>slike/barbar/tipping over/tipping over n0004.png</file>
+        <file>slike/barbar/tipping over/tipping over n0005.png</file>
+        <file>slike/barbar/tipping over/tipping over n0006.png</file>
+        <file>slike/barbar/tipping over/tipping over n0007.png</file>
+        <file>slike/barbar/tipping over/tipping over n0008.png</file>
+        <file>slike/barbar/tipping over/tipping over n0009.png</file>
+        <file>slike/barbar/tipping over/tipping over n0010.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0000.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0001.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0002.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0003.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0004.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0005.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0006.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0007.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0008.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0009.png</file>
+        <file>slike/barbar/tipping over/tipping over ne0010.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0000.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0001.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0002.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0003.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0004.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0005.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0006.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0007.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0008.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0009.png</file>
+        <file>slike/barbar/tipping over/tipping over nw0010.png</file>
+        <file>slike/barbar/tipping over/tipping over s0000.png</file>
+        <file>slike/barbar/tipping over/tipping over s0001.png</file>
+        <file>slike/barbar/tipping over/tipping over s0002.png</file>
+        <file>slike/barbar/tipping over/tipping over s0003.png</file>
+        <file>slike/barbar/tipping over/tipping over s0004.png</file>
+        <file>slike/barbar/tipping over/tipping over s0005.png</file>
+        <file>slike/barbar/tipping over/tipping over s0006.png</file>
+        <file>slike/barbar/tipping over/tipping over s0007.png</file>
+        <file>slike/barbar/tipping over/tipping over s0008.png</file>
+        <file>slike/barbar/tipping over/tipping over s0009.png</file>
+        <file>slike/barbar/tipping over/tipping over s0010.png</file>
+        <file>slike/barbar/tipping over/tipping over se0000.png</file>
+        <file>slike/barbar/tipping over/tipping over se0001.png</file>
+        <file>slike/barbar/tipping over/tipping over se0002.png</file>
+        <file>slike/barbar/tipping over/tipping over se0003.png</file>
+        <file>slike/barbar/tipping over/tipping over se0004.png</file>
+        <file>slike/barbar/tipping over/tipping over se0005.png</file>
+        <file>slike/barbar/tipping over/tipping over se0006.png</file>
+        <file>slike/barbar/tipping over/tipping over se0007.png</file>
+        <file>slike/barbar/tipping over/tipping over se0008.png</file>
+        <file>slike/barbar/tipping over/tipping over se0009.png</file>
+        <file>slike/barbar/tipping over/tipping over se0010.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0000.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0001.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0002.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0003.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0004.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0005.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0006.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0007.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0008.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0009.png</file>
+        <file>slike/barbar/tipping over/tipping over sw0010.png</file>
+        <file>slike/barbar/tipping over/tipping over w0000.png</file>
+        <file>slike/barbar/tipping over/tipping over w0001.png</file>
+        <file>slike/barbar/tipping over/tipping over w0002.png</file>
+        <file>slike/barbar/tipping over/tipping over w0003.png</file>
+        <file>slike/barbar/tipping over/tipping over w0004.png</file>
+        <file>slike/barbar/tipping over/tipping over w0005.png</file>
+        <file>slike/barbar/tipping over/tipping over w0006.png</file>
+        <file>slike/barbar/tipping over/tipping over w0007.png</file>
+        <file>slike/barbar/tipping over/tipping over w0008.png</file>
+        <file>slike/barbar/tipping over/tipping over w0009.png</file>
+        <file>slike/barbar/tipping over/tipping over w0010.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over e0008.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over n0008.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over ne0008.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over nw0008.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over s0008.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over se0008.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over sw0008.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0000.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0001.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0002.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0003.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0004.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0005.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0006.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0007.png</file>
+        <file>slike/barbarian_king/tipping over/tipping over w0008.png</file>
+        <file>slike/barbarian_king/walking/walking e0000.png</file>
+        <file>slike/barbarian_king/walking/walking e0001.png</file>
+        <file>slike/barbarian_king/walking/walking e0002.png</file>
+        <file>slike/barbarian_king/walking/walking e0003.png</file>
+        <file>slike/barbarian_king/walking/walking e0004.png</file>
+        <file>slike/barbarian_king/walking/walking e0005.png</file>
+        <file>slike/barbarian_king/walking/walking e0006.png</file>
+        <file>slike/barbarian_king/walking/walking e0007.png</file>
+        <file>slike/barbarian_king/walking/walking n0000.png</file>
+        <file>slike/barbarian_king/walking/walking n0001.png</file>
+        <file>slike/barbarian_king/walking/walking n0002.png</file>
+        <file>slike/barbarian_king/walking/walking n0003.png</file>
+        <file>slike/barbarian_king/walking/walking n0004.png</file>
+        <file>slike/barbarian_king/walking/walking n0005.png</file>
+        <file>slike/barbarian_king/walking/walking n0006.png</file>
+        <file>slike/barbarian_king/walking/walking n0007.png</file>
+        <file>slike/barbarian_king/walking/walking ne0000.png</file>
+        <file>slike/barbarian_king/walking/walking ne0001.png</file>
+        <file>slike/barbarian_king/walking/walking ne0002.png</file>
+        <file>slike/barbarian_king/walking/walking ne0003.png</file>
+        <file>slike/barbarian_king/walking/walking ne0004.png</file>
+        <file>slike/barbarian_king/walking/walking ne0005.png</file>
+        <file>slike/barbarian_king/walking/walking ne0006.png</file>
+        <file>slike/barbarian_king/walking/walking ne0007.png</file>
+        <file>slike/barbarian_king/walking/walking nw0000.png</file>
+        <file>slike/barbarian_king/walking/walking nw0001.png</file>
+        <file>slike/barbarian_king/walking/walking nw0002.png</file>
+        <file>slike/barbarian_king/walking/walking nw0003.png</file>
+        <file>slike/barbarian_king/walking/walking nw0004.png</file>
+        <file>slike/barbarian_king/walking/walking nw0005.png</file>
+        <file>slike/barbarian_king/walking/walking nw0006.png</file>
+        <file>slike/barbarian_king/walking/walking nw0007.png</file>
+        <file>slike/barbarian_king/walking/walking s0000.png</file>
+        <file>slike/barbarian_king/walking/walking s0001.png</file>
+        <file>slike/barbarian_king/walking/walking s0002.png</file>
+        <file>slike/barbarian_king/walking/walking s0003.png</file>
+        <file>slike/barbarian_king/walking/walking s0004.png</file>
+        <file>slike/barbarian_king/walking/walking s0005.png</file>
+        <file>slike/barbarian_king/walking/walking s0006.png</file>
+        <file>slike/barbarian_king/walking/walking s0007.png</file>
+        <file>slike/barbarian_king/walking/walking se0000.png</file>
+        <file>slike/barbarian_king/walking/walking se0001.png</file>
+        <file>slike/barbarian_king/walking/walking se0002.png</file>
+        <file>slike/barbarian_king/walking/walking se0003.png</file>
+        <file>slike/barbarian_king/walking/walking se0004.png</file>
+        <file>slike/barbarian_king/walking/walking se0005.png</file>
+        <file>slike/barbarian_king/walking/walking se0006.png</file>
+        <file>slike/barbarian_king/walking/walking se0007.png</file>
+        <file>slike/barbarian_king/walking/walking sw0000.png</file>
+        <file>slike/barbarian_king/walking/walking sw0001.png</file>
+        <file>slike/barbarian_king/walking/walking sw0002.png</file>
+        <file>slike/barbarian_king/walking/walking sw0003.png</file>
+        <file>slike/barbarian_king/walking/walking sw0004.png</file>
+        <file>slike/barbarian_king/walking/walking sw0006.png</file>
+        <file>slike/barbarian_king/walking/walking sw0007.png</file>
+        <file>slike/barbarian_king/walking/walking w0000.png</file>
+        <file>slike/barbarian_king/walking/walking w0001.png</file>
+        <file>slike/barbarian_king/walking/walking w0002.png</file>
+        <file>slike/barbarian_king/walking/walking w0003.png</file>
+        <file>slike/barbarian_king/walking/walking w0004.png</file>
+        <file>slike/barbarian_king/walking/walking w0005.png</file>
+        <file>slike/barbarian_king/walking/walking w0006.png</file>
+        <file>slike/barbarian_king/walking/walking w0007.png</file>
+        <file>slike/barbarian_king/walking/walking sw0005.png</file>
+        <file>slike/spear catapult/shooting e0000.png</file>
+        <file>slike/spear catapult/shooting e0001.png</file>
+        <file>slike/spear catapult/shooting e0002.png</file>
+        <file>slike/spear catapult/shooting e0003.png</file>
+        <file>slike/spear catapult/shooting e0004.png</file>
+        <file>slike/spear catapult/shooting e0005.png</file>
+        <file>slike/spear catapult/shooting e0006.png</file>
+        <file>slike/spear catapult/shooting e0007.png</file>
+        <file>slike/spear catapult/shooting e0008.png</file>
+        <file>slike/spear catapult/shooting n0000.png</file>
+        <file>slike/spear catapult/shooting n0001.png</file>
+        <file>slike/spear catapult/shooting n0002.png</file>
+        <file>slike/spear catapult/shooting n0003.png</file>
+        <file>slike/spear catapult/shooting n0004.png</file>
+        <file>slike/spear catapult/shooting n0005.png</file>
+        <file>slike/spear catapult/shooting n0006.png</file>
+        <file>slike/spear catapult/shooting n0007.png</file>
+        <file>slike/spear catapult/shooting n0008.png</file>
+        <file>slike/spear catapult/shooting ne0000.png</file>
+        <file>slike/spear catapult/shooting ne0001.png</file>
+        <file>slike/spear catapult/shooting ne0002.png</file>
+        <file>slike/spear catapult/shooting ne0003.png</file>
+        <file>slike/spear catapult/shooting ne0004.png</file>
+        <file>slike/spear catapult/shooting ne0005.png</file>
+        <file>slike/spear catapult/shooting ne0006.png</file>
+        <file>slike/spear catapult/shooting ne0007.png</file>
+        <file>slike/spear catapult/shooting ne0008.png</file>
+        <file>slike/spear catapult/shooting nw0000.png</file>
+        <file>slike/spear catapult/shooting nw0001.png</file>
+        <file>slike/spear catapult/shooting nw0002.png</file>
+        <file>slike/spear catapult/shooting nw0003.png</file>
+        <file>slike/spear catapult/shooting nw0004.png</file>
+        <file>slike/spear catapult/shooting nw0005.png</file>
+        <file>slike/spear catapult/shooting nw0006.png</file>
+        <file>slike/spear catapult/shooting nw0007.png</file>
+        <file>slike/spear catapult/shooting nw0008.png</file>
+        <file>slike/spear catapult/shooting s0000.png</file>
+        <file>slike/spear catapult/shooting s0001.png</file>
+        <file>slike/spear catapult/shooting s0002.png</file>
+        <file>slike/spear catapult/shooting s0003.png</file>
+        <file>slike/spear catapult/shooting s0004.png</file>
+        <file>slike/spear catapult/shooting s0005.png</file>
+        <file>slike/spear catapult/shooting s0006.png</file>
+        <file>slike/spear catapult/shooting s0007.png</file>
+        <file>slike/spear catapult/shooting s0008.png</file>
+        <file>slike/spear catapult/shooting se0000.png</file>
+        <file>slike/spear catapult/shooting se0001.png</file>
+        <file>slike/spear catapult/shooting se0002.png</file>
+        <file>slike/spear catapult/shooting se0003.png</file>
+        <file>slike/spear catapult/shooting se0004.png</file>
+        <file>slike/spear catapult/shooting se0005.png</file>
+        <file>slike/spear catapult/shooting se0006.png</file>
+        <file>slike/spear catapult/shooting se0007.png</file>
+        <file>slike/spear catapult/shooting se0008.png</file>
+        <file>slike/spear catapult/shooting sw0000.png</file>
+        <file>slike/spear catapult/shooting sw0001.png</file>
+        <file>slike/spear catapult/shooting sw0002.png</file>
+        <file>slike/spear catapult/shooting sw0003.png</file>
+        <file>slike/spear catapult/shooting sw0004.png</file>
+        <file>slike/spear catapult/shooting sw0005.png</file>
+        <file>slike/spear catapult/shooting sw0006.png</file>
+        <file>slike/spear catapult/shooting sw0007.png</file>
+        <file>slike/spear catapult/shooting sw0008.png</file>
+        <file>slike/spear catapult/shooting w0000.png</file>
+        <file>slike/spear catapult/shooting w0001.png</file>
+        <file>slike/spear catapult/shooting w0002.png</file>
+        <file>slike/spear catapult/shooting w0003.png</file>
+        <file>slike/spear catapult/shooting w0004.png</file>
+        <file>slike/spear catapult/shooting w0005.png</file>
+        <file>slike/spear catapult/shooting w0006.png</file>
+        <file>slike/spear catapult/shooting w0007.png</file>
+        <file>slike/spear catapult/shooting w0008.png</file>
+        <file>slike/top/schuss e0000.png</file>
+        <file>slike/top/schuss e0001.png</file>
+        <file>slike/top/schuss e0002.png</file>
+        <file>slike/top/schuss e0003.png</file>
+        <file>slike/top/schuss e0004.png</file>
+        <file>slike/top/schuss e0005.png</file>
+        <file>slike/top/schuss e0006.png</file>
+        <file>slike/top/schuss e0007.png</file>
+        <file>slike/top/schuss e0008.png</file>
+        <file>slike/top/schuss n0000.png</file>
+        <file>slike/top/schuss n0001.png</file>
+        <file>slike/top/schuss n0002.png</file>
+        <file>slike/top/schuss n0003.png</file>
+        <file>slike/top/schuss n0004.png</file>
+        <file>slike/top/schuss n0005.png</file>
+        <file>slike/top/schuss n0006.png</file>
+        <file>slike/top/schuss n0007.png</file>
+        <file>slike/top/schuss n0008.png</file>
+        <file>slike/top/schuss ne0000.png</file>
+        <file>slike/top/schuss ne0001.png</file>
+        <file>slike/top/schuss ne0002.png</file>
+        <file>slike/top/schuss ne0003.png</file>
+        <file>slike/top/schuss ne0004.png</file>
+        <file>slike/top/schuss ne0005.png</file>
+        <file>slike/top/schuss ne0006.png</file>
+        <file>slike/top/schuss ne0007.png</file>
+        <file>slike/top/schuss ne0008.png</file>
+        <file>slike/top/schuss nw0000.png</file>
+        <file>slike/top/schuss nw0001.png</file>
+        <file>slike/top/schuss nw0002.png</file>
+        <file>slike/top/schuss nw0003.png</file>
+        <file>slike/top/schuss nw0004.png</file>
+        <file>slike/top/schuss nw0005.png</file>
+        <file>slike/top/schuss nw0006.png</file>
+        <file>slike/top/schuss nw0007.png</file>
+        <file>slike/top/schuss nw0008.png</file>
+        <file>slike/top/schuss s0000.png</file>
+        <file>slike/top/schuss s0001.png</file>
+        <file>slike/top/schuss s0002.png</file>
+        <file>slike/top/schuss s0003.png</file>
+        <file>slike/top/schuss s0004.png</file>
+        <file>slike/top/schuss s0005.png</file>
+        <file>slike/top/schuss s0006.png</file>
+        <file>slike/top/schuss s0007.png</file>
+        <file>slike/top/schuss s0008.png</file>
+        <file>slike/top/schuss se0000.png</file>
+        <file>slike/top/schuss se0001.png</file>
+        <file>slike/top/schuss se0002.png</file>
+        <file>slike/top/schuss se0003.png</file>
+        <file>slike/top/schuss se0004.png</file>
+        <file>slike/top/schuss se0005.png</file>
+        <file>slike/top/schuss se0006.png</file>
+        <file>slike/top/schuss se0007.png</file>
+        <file>slike/top/schuss se0008.png</file>
+        <file>slike/top/schuss sw0000.png</file>
+        <file>slike/top/schuss sw0001.png</file>
+        <file>slike/top/schuss sw0002.png</file>
+        <file>slike/top/schuss sw0003.png</file>
+        <file>slike/top/schuss sw0004.png</file>
+        <file>slike/top/schuss sw0005.png</file>
+        <file>slike/top/schuss sw0006.png</file>
+        <file>slike/top/schuss sw0007.png</file>
+        <file>slike/top/schuss sw0008.png</file>
+        <file>slike/top/schuss w0000.png</file>
+        <file>slike/top/schuss w0001.png</file>
+        <file>slike/top/schuss w0002.png</file>
+        <file>slike/top/schuss w0003.png</file>
+        <file>slike/top/schuss w0004.png</file>
+        <file>slike/top/schuss w0005.png</file>
+        <file>slike/top/schuss w0006.png</file>
+        <file>slike/top/schuss w0007.png</file>
+        <file>slike/top/schuss w0008.png</file>
+        <file>slike/djule/Imported piskel.png</file>
+        <file>slike/strelac/shooting e0000.png</file>
+        <file>slike/strelac/shooting e0001.png</file>
+        <file>slike/strelac/shooting e0002.png</file>
+        <file>slike/strelac/shooting e0003.png</file>
+        <file>slike/strelac/shooting e0004.png</file>
+        <file>slike/strelac/shooting e0005.png</file>
+        <file>slike/strelac/shooting e0006.png</file>
+        <file>slike/strelac/shooting e0007.png</file>
+        <file>slike/strelac/shooting e0008.png</file>
+        <file>slike/strelac/shooting e0009.png</file>
+        <file>slike/strelac/shooting e0010.png</file>
+        <file>slike/strelac/shooting e0011.png</file>
+        <file>slike/strelac/shooting e0012.png</file>
+        <file>slike/strelac/shooting n0000.png</file>
+        <file>slike/strelac/shooting n0001.png</file>
+        <file>slike/strelac/shooting n0002.png</file>
+        <file>slike/strelac/shooting n0003.png</file>
+        <file>slike/strelac/shooting n0004.png</file>
+        <file>slike/strelac/shooting n0005.png</file>
+        <file>slike/strelac/shooting n0006.png</file>
+        <file>slike/strelac/shooting n0007.png</file>
+        <file>slike/strelac/shooting n0008.png</file>
+        <file>slike/strelac/shooting n0009.png</file>
+        <file>slike/strelac/shooting n0010.png</file>
+        <file>slike/strelac/shooting n0011.png</file>
+        <file>slike/strelac/shooting n0012.png</file>
+        <file>slike/strelac/shooting ne0000.png</file>
+        <file>slike/strelac/shooting ne0001.png</file>
+        <file>slike/strelac/shooting ne0002.png</file>
+        <file>slike/strelac/shooting ne0003.png</file>
+        <file>slike/strelac/shooting ne0004.png</file>
+        <file>slike/strelac/shooting ne0005.png</file>
+        <file>slike/strelac/shooting ne0006.png</file>
+        <file>slike/strelac/shooting ne0007.png</file>
+        <file>slike/strelac/shooting ne0008.png</file>
+        <file>slike/strelac/shooting ne0009.png</file>
+        <file>slike/strelac/shooting ne0010.png</file>
+        <file>slike/strelac/shooting ne0011.png</file>
+        <file>slike/strelac/shooting ne0012.png</file>
+        <file>slike/strelac/shooting nw0000.png</file>
+        <file>slike/strelac/shooting nw0001.png</file>
+        <file>slike/strelac/shooting nw0002.png</file>
+        <file>slike/strelac/shooting nw0003.png</file>
+        <file>slike/strelac/shooting nw0004.png</file>
+        <file>slike/strelac/shooting nw0005.png</file>
+        <file>slike/strelac/shooting nw0006.png</file>
+        <file>slike/strelac/shooting nw0007.png</file>
+        <file>slike/strelac/shooting nw0008.png</file>
+        <file>slike/strelac/shooting nw0009.png</file>
+        <file>slike/strelac/shooting nw0010.png</file>
+        <file>slike/strelac/shooting nw0011.png</file>
+        <file>slike/strelac/shooting nw0012.png</file>
+        <file>slike/strelac/shooting s0000.png</file>
+        <file>slike/strelac/shooting s0001.png</file>
+        <file>slike/strelac/shooting s0002.png</file>
+        <file>slike/strelac/shooting s0003.png</file>
+        <file>slike/strelac/shooting s0004.png</file>
+        <file>slike/strelac/shooting s0005.png</file>
+        <file>slike/strelac/shooting s0006.png</file>
+        <file>slike/strelac/shooting s0007.png</file>
+        <file>slike/strelac/shooting s0008.png</file>
+        <file>slike/strelac/shooting s0009.png</file>
+        <file>slike/strelac/shooting s0010.png</file>
+        <file>slike/strelac/shooting s0011.png</file>
+        <file>slike/strelac/shooting s0012.png</file>
+        <file>slike/strelac/shooting se0000.png</file>
+        <file>slike/strelac/shooting se0001.png</file>
+        <file>slike/strelac/shooting se0002.png</file>
+        <file>slike/strelac/shooting se0003.png</file>
+        <file>slike/strelac/shooting se0004.png</file>
+        <file>slike/strelac/shooting se0005.png</file>
+        <file>slike/strelac/shooting se0006.png</file>
+        <file>slike/strelac/shooting se0007.png</file>
+        <file>slike/strelac/shooting se0008.png</file>
+        <file>slike/strelac/shooting se0009.png</file>
+        <file>slike/strelac/shooting se0010.png</file>
+        <file>slike/strelac/shooting se0011.png</file>
+        <file>slike/strelac/shooting se0012.png</file>
+        <file>slike/strelac/shooting sw0000.png</file>
+        <file>slike/strelac/shooting sw0001.png</file>
+        <file>slike/strelac/shooting sw0002.png</file>
+        <file>slike/strelac/shooting sw0003.png</file>
+        <file>slike/strelac/shooting sw0004.png</file>
+        <file>slike/strelac/shooting sw0005.png</file>
+        <file>slike/strelac/shooting sw0006.png</file>
+        <file>slike/strelac/shooting sw0007.png</file>
+        <file>slike/strelac/shooting sw0008.png</file>
+        <file>slike/strelac/shooting sw0009.png</file>
+        <file>slike/strelac/shooting sw0010.png</file>
+        <file>slike/strelac/shooting sw0011.png</file>
+        <file>slike/strelac/shooting sw0012.png</file>
+        <file>slike/strelac/shooting w0000.png</file>
+        <file>slike/strelac/shooting w0001.png</file>
+        <file>slike/strelac/shooting w0002.png</file>
+        <file>slike/strelac/shooting w0003.png</file>
+        <file>slike/strelac/shooting w0004.png</file>
+        <file>slike/strelac/shooting w0005.png</file>
+        <file>slike/strelac/shooting w0006.png</file>
+        <file>slike/strelac/shooting w0007.png</file>
+        <file>slike/strelac/shooting w0008.png</file>
+        <file>slike/strelac/shooting w0009.png</file>
+        <file>slike/strelac/shooting w0010.png</file>
+        <file>slike/strelac/shooting w0011.png</file>
+        <file>slike/strelac/shooting w0012.png</file>
+        <file>slike/harry the orc/walking/walking e0000.png</file>
+        <file>Barbar.cpp</file>
+        <file>slike/harry the orc/walking/walking e0001.png</file>
+        <file>slike/harry the orc/walking/walking e0002.png</file>
+        <file>slike/harry the orc/walking/walking e0003.png</file>
+        <file>slike/harry the orc/walking/walking e0004.png</file>
+        <file>slike/harry the orc/walking/walking e0005.png</file>
+        <file>slike/harry the orc/walking/walking e0006.png</file>
+        <file>slike/harry the orc/walking/walking e0007.png</file>
+        <file>slike/harry the orc/walking/walking n0000.png</file>
+        <file>slike/harry the orc/walking/walking n0001.png</file>
+        <file>slike/harry the orc/walking/walking n0002.png</file>
+        <file>slike/harry the orc/walking/walking n0003.png</file>
+        <file>slike/harry the orc/walking/walking n0004.png</file>
+        <file>slike/harry the orc/walking/walking n0005.png</file>
+        <file>slike/harry the orc/walking/walking n0006.png</file>
+        <file>slike/harry the orc/walking/walking n0007.png</file>
+        <file>slike/harry the orc/walking/walking ne0000.png</file>
+        <file>slike/harry the orc/walking/walking ne0001.png</file>
+        <file>slike/harry the orc/walking/walking ne0002.png</file>
+        <file>slike/harry the orc/walking/walking ne0003.png</file>
+        <file>slike/harry the orc/walking/walking ne0004.png</file>
+        <file>slike/harry the orc/walking/walking ne0005.png</file>
+        <file>slike/harry the orc/walking/walking ne0006.png</file>
+        <file>slike/harry the orc/walking/walking ne0007.png</file>
+        <file>slike/harry the orc/walking/walking nw0000.png</file>
+        <file>slike/harry the orc/walking/walking nw0001.png</file>
+        <file>slike/harry the orc/walking/walking nw0002.png</file>
+        <file>slike/harry the orc/walking/walking nw0003.png</file>
+        <file>slike/harry the orc/walking/walking nw0004.png</file>
+        <file>slike/harry the orc/walking/walking nw0005.png</file>
+        <file>slike/harry the orc/walking/walking nw0006.png</file>
+        <file>slike/harry the orc/walking/walking nw0007.png</file>
+        <file>slike/harry the orc/walking/walking s0000.png</file>
+        <file>slike/harry the orc/walking/walking s0001.png</file>
+        <file>slike/harry the orc/walking/walking s0002.png</file>
+        <file>slike/harry the orc/walking/walking s0003.png</file>
+        <file>slike/harry the orc/walking/walking s0004.png</file>
+        <file>slike/harry the orc/walking/walking s0005.png</file>
+        <file>slike/harry the orc/walking/walking s0006.png</file>
+        <file>slike/harry the orc/walking/walking s0007.png</file>
+        <file>slike/harry the orc/walking/walking se0000.png</file>
+        <file>slike/harry the orc/walking/walking se0001.png</file>
+        <file>slike/harry the orc/walking/walking se0002.png</file>
+        <file>slike/harry the orc/walking/walking se0003.png</file>
+        <file>slike/harry the orc/walking/walking se0004.png</file>
+        <file>slike/harry the orc/walking/walking se0005.png</file>
+        <file>slike/harry the orc/walking/walking se0006.png</file>
+        <file>slike/harry the orc/walking/walking se0007.png</file>
+        <file>slike/harry the orc/walking/walking sw0000.png</file>
+        <file>slike/harry the orc/walking/walking sw0001.png</file>
+        <file>slike/harry the orc/walking/walking sw0002.png</file>
+        <file>slike/harry the orc/walking/walking sw0003.png</file>
+        <file>slike/harry the orc/walking/walking sw0004.png</file>
+        <file>slike/harry the orc/walking/walking sw0005.png</file>
+        <file>slike/harry the orc/walking/walking sw0006.png</file>
+        <file>slike/harry the orc/walking/walking sw0007.png</file>
+        <file>slike/harry the orc/walking/walking w0000.png</file>
+        <file>slike/harry the orc/walking/walking w0001.png</file>
+        <file>slike/harry the orc/walking/walking w0002.png</file>
+        <file>slike/harry the orc/walking/walking w0003.png</file>
+        <file>slike/harry the orc/walking/walking w0004.png</file>
+        <file>slike/harry the orc/walking/walking w0005.png</file>
+        <file>slike/harry the orc/walking/walking w0006.png</file>
+        <file>slike/harry the orc/walking/walking w0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over w0000.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over sw0000.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over se0000.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over s0000.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over nw0000.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over ne0000.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over n0000.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0012.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0011.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0010.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0009.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0008.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0007.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0006.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0005.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0004.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0003.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0002.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0001.png</file>
+        <file>slike/harry the orc/tipping over 128x128/tipping over e0000.png</file>
+    </qresource>
+</RCC>
